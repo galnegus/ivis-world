@@ -1,0 +1,10 @@
+wow = WV6_Data_R[WV6_Data_R$V2 %in% set_test,c('V2', 'V6')]
+
+aggregate(wow, by=list(wow$V6, wow$V2), FUN=mean)
+
+write.csv(MyData, file = "MyData.csv") 
+http://rprogramming.net/write-csv-in-r/
+
+
+GOAL:
+
