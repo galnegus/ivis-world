@@ -17,11 +17,11 @@
       <h1>Analytic Trail 1: Religion and politics</h1>
       <p>We want to examine what kind of relationship exists between religion and politics in 2010-2014. To do this, we have a few variables of interest. <strong>ReligiousPerson</strong> describes how religious the median person of the country considers themself (lower means more religious). <strong>PoliticalScale</strong> is also of interest, where higher means more right-leaning, lower means left-leaning (from 1 to 10), similarly with <strong>JustifyHomosexuality</strong>, <strong>JustifyAbortion</strong> and <strong>JustifyDivorce</strong>. The hypothesis being that people who are more religious will be more right-leaning.</p>
 
-      <img src="assets/p1_1.png">
+      <img src="./assets/p1_1.png">
 
       <p>The first image shows as expected that right-leaning countries are more religious, going by the medians. They are as well more negatively disposed towards homosexuality, abortion and divorce.</p>
 
-      <img src="assets/p1_2.png">
+      <img src="./assets/p1_2.png">
 
       <p>On the other end of the spectrum, we interestingly see a greater occurences of countries with more religious people. They are also more tolerant towards homosexuality, abortion and divorce.</p>
 
