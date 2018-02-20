@@ -223,9 +223,9 @@ column_wv6 <- c("V57",  "V58",  "V143", "V145", "V147", "V203", "V204", "V205", 
 # WV5_Data_r_v_2015_04_18"
 # WV6_Data_v_2015_04_18
 
-merged <- mergeLength(WV6_Data_v_2015_04_18, country_codes, countries, column_wv6, column_labels)
+merged <- mergeLength(WV5_Data_r_v_2015_04_18, country_codes, countries, column_wv5, column_labels)
 
 #merged
 
-write.csv(merged, file = "wv6.csv") 
+write.csv(merged, file = "wv5.csv") 
 # http://rprogramming.net/write-csv-in-r/
