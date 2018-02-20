@@ -25,7 +25,9 @@
 
       <p>On the other end of the spectrum, we interestingly see a greater occurences of countries with more religious people. They are also more tolerant towards homosexuality, abortion and divorce.</p>
 
-      <h1>Analytic Trail 2: Religion and politics</h1>
+      <h1>Analytic Trail 2: Meaning of life</h1>
+
+      <p>The second question is about the meaning of life, how does it relate to religion. The variable <strong>LifeMeaning</strong></p>
     </div>
   </div>
 
