@@ -66,12 +66,17 @@ module.exports = {
         options: {
           name: '[name].[ext]?[hash]'
         }
+      },
+      {
+        test: /\.csv$/,
+        use: 'raw-loader'
       }
     ]
   },
   resolve: {
     alias: {
-      'vue$': 'vue/dist/vue.esm.js'
+      'vue$': 'vue/dist/vue.esm.js',
+      '@': __dirname
     },
     extensions: ['*', '.js', '.vue', '.json']
   },
