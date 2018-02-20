@@ -14,7 +14,12 @@
       <div class="select__arrow"></div>
     </div>
     <div class="analysis">
+      <h1>Explanation</h1>
+
+      <p>I wasn't quite able to execute the intended visualization, I wasted way too much time trying to process the data and then I ran into difficulties with D3 not properly annotating the different axes, so it's pretty difficult to parse what each value is supposed to represent in terms of survey answers. The data has been aggregated, so that the ordinal data (e.g., <strong>ServiceAttend</strong>) is represented by the median of each country, and the interval data (e.g., <strong>JustifyAbortion</strong>) is represented by the mean of each country. For the ordinal data, typically lower means more/better.</p>
+
       <h1>Analytic Trail 1: Religion and politics</h1>
+
       <p>We want to examine what kind of relationship exists between religion and politics in 2010-2014. To do this, we have a few variables of interest. <strong>ReligiousPerson</strong> describes how religious the median person of the country considers themself (lower means more religious). <strong>PoliticalScale</strong> is also of interest, where higher means more right-leaning, lower means left-leaning (from 1 to 10), similarly with <strong>JustifyHomosexuality</strong>, <strong>JustifyAbortion</strong> and <strong>JustifyDivorce</strong>. The hypothesis being that people who are more religious will be more right-leaning.</p>
 
       <img src="./assets/p1_1.png">
@@ -27,19 +32,15 @@
 
       <h1>Analytic Trail 2: Meaning of life</h1>
 
-      <p>The second question is about the meaning of life, how does it relate to religion. The variable <strong>LifeMeaning</strong> asks how often the median person in each country ponders the meaning life, a lower number meaning more often, and a higher number less often.</p>
+      <p>The second question is about the meaning of life. How does it relate to religion? The variable <strong>LifeMeaning</strong> asks how often the median person in each country ponders the meaning life, a lower number meaning more often, and a higher number less often. A number of other variables mentioned in the first trail are used to ascribe religious values to a country.</p>
 
       <img src="./assets/p2_1.png">
 
-      <p>blblablab</p>
+      <p>Looking at the most recent data (2010-2014), we see that people who ponder the deeper questions tend to be more religious.</p>
 
       <img src="./assets/p2_2.png">
 
-      <p>dsakfnas</p>
-      
-      <img src="./assets/p2_3.png">
-
-      <p>dsfjksanefkj</p>
+      <p>Going back a bit further to (2005-2009), a similar picture is drawn. It seems like not much has changed in that regard. Coutries where the median person consider themselves religious, who frequent religious services and have negative dispositions towards homosexuality, abortion and divorce, tend to think more about the meaning of life it seems. </p>
     </div>
   </div>
 
