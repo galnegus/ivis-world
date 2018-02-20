@@ -17,11 +17,11 @@
       <h1>Analytic Trail 1: Religion and politics</h1>
       <p>We want to examine what kind of relationship exists between religion and politics in 2010-2014. To do this, we have a few variables of interest. <strong>ReligiousPerson</strong> describes how religious the median person of the country considers themself (lower means more religious). <strong>PoliticalScale</strong> is also of interest, where higher means more right-leaning, lower means left-leaning (from 1 to 10), similarly with <strong>JustifyHomosexuality</strong>, <strong>JustifyAbortion</strong> and <strong>JustifyDivorce</strong>. The hypothesis being that people who are more religious will be more right-leaning.</p>
 
-      <img src="https://galnegus.github.io/ivis-world/dist/p1_1.png">
+      <img src="./assets/p1_1.png">
 
       <p>The first image shows as expected that right-leaning countries are more religious, going by the medians. They are as well more negatively disposed towards homosexuality, abortion and divorce.</p>
 
-      <img src="https://galnegus.github.io/ivis-world/dist/p1_2.png">
+      <img src="./assets/p1_2.png">
 
       <p>On the other end of the spectrum, we interestingly see a greater occurences of countries with more religious people. They are also more tolerant towards homosexuality, abortion and divorce.</p>
 
@@ -29,17 +29,17 @@
 
       <p>The second question is about the meaning of life, how does it relate to religion. The variable <strong>LifeMeaning</strong> asks how often the median person in each country ponders the meaning life, a lower number meaning more often, and a higher number less often.</p>
 
-      <img src="https://galnegus.github.io/ivis-world/dist/p2_1.png">
+      <img src="./assets/p2_1.png">
 
       <p>blblablab</p>
 
-      <img src="https://galnegus.github.io/ivis-world/dist/p2_2.png">
+      <img src="./assets/p2_2.png">
 
       <p>dsakfnas</p>
+      
+      <img src="./assets/p2_3.png">
 
-      <img src="https://galnegus.github.io/ivis-world/dist/p2_3.png">
-
-      <p>efien</p>
+      <p>dsfjksanefkj</p>
     </div>
   </div>
 
