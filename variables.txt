@@ -1,13 +1,13 @@
-1: Marital status
+1: Marital status x
 =================
 1981/1984: V89
 1990/1994: V181
 1995/1999: V89
-2000/2004: V106
-2005/2009: V55
+2000/2004: V106 +
+2005/2009: V55  +
 2010/2013: V57
 
-2: Number of children
+2: Number of children x
 =====================
 1981/1984: V90
 1990/1994: V211
@@ -16,7 +16,7 @@
 2005/2009: V56
 2010/2013: V58
 
-3: How often think about meaning of life
+3: How often think about meaning of life x
 ========================================
 1981/1984: V177
 1990/1994: V133
@@ -25,25 +25,25 @@
 2005/2009: V184
 2010/2013: V143
 
-4: How often attend religious services
+4: How often attend religious services x
 ======================================
 1981/1984: V181
-1990/1994: V147
+1990/1994: V147 +
 1995/1999: V181
 2000/2004: V185
 2005/2009: V186
 2010/2013: V145
 
-5: Religious person
+5: Religious person x
 ===================
 1981/1984: V182
 1990/1994: V151
-1995/1999: V182
+1995/1999: V182 +
 2000/2004: V186
-2005/2009: V187
+2005/2009: V187 +
 2010/2013: V147
 
-6: Justifiable: homosexuality
+6: Justifiable: homosexuality x
 =============================
 1981/1984: V197
 1990/1994: V307
@@ -52,7 +52,7 @@
 2005/2009: V202
 2010/2013: V203
 
-7: Justifiable: abortion
+7: Justifiable: abortion x
 ========================
 1981/1984: V199
 1990/1994: V309
@@ -61,7 +61,7 @@
 2005/2009: V204
 2010/2013: V204
 
-8: Justifiable: divorce
+8: Justifiable: divorce x
 =======================
 1981/1984: V200
 1990/1994: V310
@@ -70,7 +70,7 @@
 2005/2009: V205
 2010/2013: V205
 
-9: Religious denomination
+9: Religious denomination x, forget it
 =========================
 1981/1984: V179
 1990/1994: V144
@@ -79,7 +79,7 @@
 2005/2009: V185
 2010/2013: V144
 
-10: Self positioning in political scale
+10: Self positioning in political scale x
 =======================================
 1981/1984: V123
 1990/1994: V248

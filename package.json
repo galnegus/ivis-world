@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "d3": "^4.13.0",
+    "parcoord-es": "^1.0.2",
     "vue": "^2.5.11"
   },
   "browserslist": [
@@ -26,6 +27,7 @@
     "babel-preset-stage-3": "^6.24.1",
     "cross-env": "^5.0.5",
     "css-loader": "^0.28.7",
+    "eslint": "^4.18.0",
     "eslint-config-airbnb-base": "^12.1.0",
     "eslint-import-resolver-webpack": "^0.8.4",
     "eslint-plugin-html": "^4.0.2",
