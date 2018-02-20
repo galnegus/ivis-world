@@ -15,7 +15,7 @@
     </div>
     <div class="analysis">
       <h1>Analytic Trail 1: Religion and politics</h1>
-      <p>We want to examine what kind of relationship exists between religion and politics. To do this, we have a few variables of interest. <strong>ReligiousPerson</strong> describes how religious the median person of the country considers themself. <strong>PoliticalScale</strong> is also of interest, where higher means more right-leaning, lower means left-leaning (from 1 to 10), similarly with <strong>JustifyHomosexuality</strong>, <strong>JustifyAbortion</strong> and <strong>JustifyDivorce</strong>. The hypothesis being that people who are more religious will be more right-leaning.</p>
+      <p>We want to examine what kind of relationship exists between religion and politics in 2010-2014. To do this, we have a few variables of interest. <strong>ReligiousPerson</strong> describes how religious the median person of the country considers themself. <strong>PoliticalScale</strong> is also of interest, where higher means more right-leaning, lower means left-leaning (from 1 to 10), similarly with <strong>JustifyHomosexuality</strong>, <strong>JustifyAbortion</strong> and <strong>JustifyDivorce</strong>. The hypothesis being that people who are more religious will be more right-leaning.</p>
 
       <img src="./assets/p1_1.png">
 
