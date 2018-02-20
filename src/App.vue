@@ -20,6 +20,10 @@
       <img src="./assets/p1_1.png">
 
       <p>The first image shows that interestingely enough that more right-leaning countries are not necessarily more religious, going by the median of the country. They are however, more negatively disposed towards homosexuality, abortion and divorce.</p>
+
+      <img src="./assets/p1_2.png">
+
+      <p>On the other end of the spectrum, we interestingly see a greater occurences of countries with more religious people. They are also more tolerant towards homosexuality, abortion and divorce.</p>
     </div>
   </div>
 
